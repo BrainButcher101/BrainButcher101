@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently working on StackGuardian.io
 - 🌱 I’m currently learning that I hate JS more than my life
-- ⚡ Fun fact: I am scared of butterflies!
+- ⚡ Fun fact: I am scared of butterflies and I love drawing more than coding!
 
